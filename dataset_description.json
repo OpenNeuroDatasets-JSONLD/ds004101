@@ -18,5 +18,8 @@
         "",
         ""
     ],
-    "DatasetDOI": ""
+    "DatasetDOI": "",
+    "EthicsApprovals": [
+        "The study protocol was approved by the Ethics Committee and the Institutional Review Board of the Research Center of Neurology"
+    ]
 }
